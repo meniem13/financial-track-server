@@ -1,0 +1,26 @@
+# Node.js dependencies
+node_modules/
+
+# Environment variables
+.env
+
+# Build output
+/dist
+/build
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# VSCode settings (if you're using VSCode)
+.vscode/
+
+# Mac system files (if you're using macOS)
+.DS_Store
+
+# npm packages in case you are using npm
+package-lock.json
+
+# TypeScript build output (if using TypeScript)
+*.tsbuildinfo
