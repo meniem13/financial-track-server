@@ -4,7 +4,6 @@ import financialRecordRouter from "./routes/financial-records";
 import cors from "cors";
 import dotenv from "dotenv";
 
-// Load environment variables from .env file
 dotenv.config();
 
 const app: Express = express();
